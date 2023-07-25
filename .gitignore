@@ -1,1 +1,6 @@
 girl112.jpg
+
+*.txt
+/bin
+/obj
+.gitignore
